@@ -1,6 +1,6 @@
 // public variables here
-string public tokenName = "sonu";
-string public tokenAbbrs = "svm";
+string public tokenName = "riya";
+string public tokenAbbrs = "rt";
 uint public totalSupply = 0;
 
 
